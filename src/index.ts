@@ -572,3 +572,4 @@ app.listen(PORT, () => {
   console.log(`  Transport:      Streamable HTTP`);
   console.log(`  Auth:           Bearer passthrough (client provides Gusto access token)`);
 });
+// OAuth upgrade 2026-03-19T00:52:19Z
